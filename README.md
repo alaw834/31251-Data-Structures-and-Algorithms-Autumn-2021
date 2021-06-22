@@ -4,3 +4,4 @@
 100/100
 
 ## Assignment 2 Binary Search Tree
+100/100
